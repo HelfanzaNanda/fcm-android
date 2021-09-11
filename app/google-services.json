@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244501765316",
+    "project_id": "notification-82434",
+    "storage_bucket": "notification-82434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244501765316:android:6926d9dde4d2093bfe7d91",
+        "android_client_info": {
+          "package_name": "com.alfaradev.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244501765316-kpqh7rgki1590hup5qvhqqkaamekj74q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6OE-UfE_J3iq2yfVNHZPC4Q1nFI3acaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244501765316-kpqh7rgki1590hup5qvhqqkaamekj74q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
